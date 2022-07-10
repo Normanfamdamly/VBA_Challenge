@@ -24,8 +24,7 @@ The 2017 Stock Analysis went from .7578125 down to .1328125 seconds to run, whic
 You can tell from the screen shots that the stock performance stays the same for both code versions.  The only standout item to note is 2017 was a much better year for the green stocks than 2018, in the later year the environmental stocks did not fair well and most returned a negative annual return. Hindesight is always 20/20 and the stock market crash and a Adminstration that was pro Gas and pro Coal may have had an effect on these company stocks. 
 
 ### Codeing Results
-The biggest differnece between the Green Stocks code and the VBA Challenge code to be was the creation of the arrays for "tickerIndex" "tickerVolumes", "tickerStartingPrices" and "tickerEndingPrices".
-
+The biggest differnece between the Green Stocks code and the VBA Challenge code was the creation of the arrays for tickerIndex, tickerVolumes, tickerStartingPrices, and tickerEndingPrices. An array is like a set of store shelves we can put our information in as it is calculated and grab when it is needed.  The arrays sped the process of the calculations up by storing the information in the background as the code ran the loop. 
 
 
     ''1a) Create a ticker Index 
