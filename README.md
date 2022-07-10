@@ -16,6 +16,11 @@ If we are solely evaluating the results of the code on the time it took to run w
    ![2018_GreenStocksTimer](2018_GreenStocksTimer.png)
     ![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
+You can tell from the screen shots that the stock performance stays the same for both code versions.  The only standout item to note is 2017 was a much better year for the green stocks than 2018, in the later year the environmental stocks did not fair well and most returned a negative annual return.    
+
+
+
+
 
 
 
