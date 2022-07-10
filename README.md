@@ -9,6 +9,16 @@ This challenge focused on the refractor of coding. Steve had us pull the green s
     -Better Logic
     -Easier to Read
 
+## Results
+If we are solely evaluating the results of the code on the time it took to run we could say the code was successful.  The 2017 Stock Analysis went from .7578125 down to .1328125 seconds to run, which is approximately a decrease of .63 seconds. While the 2018 Stock Analysis went from .765625 down to .171875 seconds to run, which is approximately a decrease of .59 seconds. 
+ ![image_name](path/to/image_name.png)
+  ![image_name](path/to/image_name.png)
+   ![image_name](path/to/image_name.png)
+    ![image_name](path/to/image_name.png)
+
+
+
+
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 Summary: In a summary statement, address the following questions.
 What are the advantages or disadvantages of refactoring code?
