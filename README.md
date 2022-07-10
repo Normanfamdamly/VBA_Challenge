@@ -49,21 +49,26 @@ The biggest differnece between the Green Stocks code and the VBA Challenge code 
     
     tickerVolumes(tickerIndex) = 0
     
+## Summary of VBA Challenge
+
+### Advantages and Disadvantages to Refactoring
+
+#### Disadvantages
+- Duplications of code due to copy and paste errors
+- Logic that may be out of place due to jumping around the code you are cleaning up
+- Too many hand in kichen if you have multiple refactoring
+- If code still functions the same, maybe diffcult to prove to customer the time and effort put into the work
+
+#### Advantages
+- Easier to read
+- Efficency in processing
+- Liveable code that allows the program to live beyond the one spreadsheet
+- Formatting updates make it more presentable to the consumer
+
+### My Disadvantages and Advantages with the Challenge
     
+There were more disadvantages to this challege than there were advantages. That may be in part to the newness of the the entire refactoring process, but I found a large disadvantage was trying to flip between the VBA Challenge code we were provided and my Green Stocks VBA code. There was no process in which I could have both open in the deveoloper and flip and and forth and not loose track of whcih code I was looking at, or working on/in.  If you copied the code over to a ReadMe text file that was no help either since my notes would all turn black in my Green Stocks VBA code.  The other disaadvantage of this refactoring is it was not a code I could make a change run, then move on and make another change and run then move forward.  THis code required all teh arrays and loops to work, so I felt I could not test as I went along.
+
+The advantage to refactoring is obvious is does make a more efficent code and it made my code much easier to read. I found my Green Stocks VBA code used WAY TOO much wite space which made it difficult to read when I was compaing to the two codes.  I found a more condensed code with notes that made sense to me was easier to work when I came back from break.  THrough I question if someone else was working my code, if my notes make sense to them.  I did like the refactoring to an extent, since I am not a linear thinker, I could jump from piece to piece to fix in any order i wanted.
 
 
-    
-    
-    
-
-
-
-
-
-
-
-
-Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-Summary: In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
