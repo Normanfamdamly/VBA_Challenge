@@ -24,7 +24,33 @@ The 2017 Stock Analysis went from .7578125 down to .1328125 seconds to run, whic
 You can tell from the screen shots that the stock performance stays the same for both code versions.  The only standout item to note is 2017 was a much better year for the green stocks than 2018, in the later year the environmental stocks did not fair well and most returned a negative annual return. Hindesight is always 20/20 and the stock market crash and a Adminstration that was pro Gas and pro Coal may have had an effect on these company stocks. 
 
 ### Codeing Results
-The biggest differnece between the Green Stocks code and the VBA Challenge code to be was the creation of the arrays for 
+The biggest differnece between the Green Stocks code and the VBA Challenge code to be was the creation of the arrays for "tickerIndex" "tickerVolumes", "tickerStartingPrices" and "tickerEndingPrices".
+
+
+
+    ''1a) Create a ticker Index 
+    ' Need an array for tickerindex, make Single since got Error 6 again at calculation of Return
+    
+    Dim tickerIndex As Single
+    tickerIndex = 0
+    
+    '1b) Create three output arrays
+    ' 12 tickers so denoting my floors to keep track and in like with ticker string
+    
+    Dim tickerVolumes(12) As Long
+    Dim tickerStartingPrices(12) As Single
+    Dim tickerEndingPrices(12) As Single
+       
+    
+    ''2a) Create a for loop to initialize the tickerVolumes to zero.
+    'index is floors and the bottom floor is 0 and goes to 11
+    'tickerIndex will need to be used in my equations going forward- remember
+    
+    For tickerIndex = 0 To 11
+    
+    tickerVolumes(tickerIndex) = 0
+    
+    
 
 
     
