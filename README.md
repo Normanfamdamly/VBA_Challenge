@@ -11,10 +11,10 @@ This challenge focused on the refractor of coding. Steve had us pull the green s
 
 ## Results
 If we are solely evaluating the results of the code on the time it took to run we could say the code was successful.  The 2017 Stock Analysis went from .7578125 down to .1328125 seconds to run, which is approximately a decrease of .63 seconds. While the 2018 Stock Analysis went from .765625 down to .171875 seconds to run, which is approximately a decrease of .59 seconds. 
- ![image_name](path/to/image_name.png)
-  ![image_name](path/to/image_name.png)
-   ![image_name](path/to/image_name.png)
-    ![image_name](path/to/image_name.png)
+ ![2017_GreenStocksTimer](2017_GreenStocksTimer.png)
+  ![VBA_Challenge_2017](VBA_Challenge_2017.png)
+   ![2018_GreenStocksTimer](2018_GreenStocksTimer.png)
+    ![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
 
 
